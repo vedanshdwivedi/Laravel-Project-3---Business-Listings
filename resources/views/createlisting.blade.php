@@ -4,7 +4,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <div class="card-header">Create Listing</div>
+                <div class="card-header">Create Listing<a href="/dashboard" class="float-right btn btn-default btn-sm">&laquo; Go Back</a></div>
 
                 <div class="card-body">
                     
